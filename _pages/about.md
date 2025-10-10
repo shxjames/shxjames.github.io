@@ -19,6 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a sophomore studying Computer Science and Mathematics at the University of Michigan. I am broadly interested in the theory of Machine Learning and Computer Vision. Recently, I have been working on developing Parametric Human Modelling for [Prof. Jingwen Hu](https://www.umtri.umich.edu/people/hu-jingwen/) at [the UofM Transportation Research Insitute](https://www.umtri.umich.edu/), in particular the development of Point Cloud Registration algorithms. 
-
-Here is my [resume](../assets/pdf/James_Song_CV.pdf).
+I am a senior at the University of Michigan majoring in Computer Science and Mathematics. I currently work as a research assistant within the ECE Department, where I am fortunate to be advised by [Prof. Liyue Shen](https://liyueshen.engin.umich.edu/). Previously, I worked at the [InfiniAI Lab](https://www.infini-ai-lab.cmu.edu/) at Carnegie Mellon University with Prof. Beidi Chen and many wonderful collaborators. I also briefly worked with [Prof. Jingwen Hu](https://www.umtri.umich.edu/people/hu-jingwen/) at the [UMTRI](https://www.umtri.umich.edu/).
