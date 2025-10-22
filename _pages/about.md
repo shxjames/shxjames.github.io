@@ -15,8 +15,8 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a senior at the University of Michigan majoring in Computer Science and Mathematics. I currently work as a research assistant within the ECE Department, where I am fortunate to be advised by [Prof. Liyue Shen](https://liyueshen.engin.umich.edu/). Previously, I worked at the [InfiniAI Lab](https://www.infini-ai-lab.cmu.edu/) at Carnegie Mellon University with Prof. Beidi Chen and many wonderful collaborators. I also had a wonderful time working with [Prof. Jingwen Hu](https://www.umtri.umich.edu/people/hu-jingwen/) at the [UMTRI](https://www.umtri.umich.edu/).
+I am a senior at the University of Michigan majoring in Computer Science and Mathematics. I currently work as a research assistant within the ECE Department, where I am fortunate to be advised by [Prof. Liyue Shen](https://liyueshen.engin.umich.edu/). I've also worked at the [InfiniAI Lab](https://www.infini-ai-lab.cmu.edu/) at Carnegie Mellon University with Prof. Beidi Chen and many wonderful collaborators. I also had a wonderful time working with [Prof. Jingwen Hu](https://www.umtri.umich.edu/people/hu-jingwen/) at the [UMTRI](https://www.umtri.umich.edu/).
