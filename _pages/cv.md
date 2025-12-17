@@ -1,11 +1,17 @@
 ---
-layout: cv
+layout: none
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 nav_order: 2
-cv_pdf: James_Song_CV.pdf
-description: You can click the pdf button on the right to download my CV.
-toc:
-  sidebar: left
 ---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url=/assets/pdf/Song_Haoxi_James_resume.pdf">
+  <script>window.location.href = "/assets/pdf/Song_Haoxi_James_resume.pdf";</script>
+</head>
+<body>
+  <p>Redirecting to CV... <a href="/assets/pdf/Song_Haoxi_James_resume.pdf">Click here if not redirected.</a></p>
+</body>
+</html>
