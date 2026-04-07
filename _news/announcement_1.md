@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-04-07 00:00:00-0500
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper on code agent security, [FCV](https://infini-ai-lab.github.io/FCV/), has been accepted to **ACL 2026**!
